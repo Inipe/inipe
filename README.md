@@ -9,15 +9,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-inipes-projects.vercel.app/api?username=inipe&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;cache_seconds=7200&amp;v=2"
-    alt="GitHub stats"
-  />
-</p>
-
-
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=inipe&theme=tokyonight"
     alt="GitHub streak"
   />

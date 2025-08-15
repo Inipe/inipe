@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/1a3c4ff1-aa6d-4a6e-85cd-baeed51a1b69/thumbnail" >
+</p>
 
 <!--
 **Inipe/inipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
